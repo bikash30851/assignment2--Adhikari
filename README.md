@@ -16,3 +16,11 @@ Assignment-2 Web Apps
     1. At LAX go from Domestic Terminal to International Terminal.
     2. Check your bags and get on the flight.
 4. After arriving at Kathmandu, you can get a taxi from the airport to get around. 
+
+#### Things to bring
+* Warm Clothes
+    * Jackets
+    * Hats
+    * Gloves
+* Camera
+* Snacks from US
