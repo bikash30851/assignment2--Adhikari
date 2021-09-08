@@ -26,3 +26,16 @@ Assignment-2 Web Apps
 * Snacks from US
 
 [AboutMe](https://github.com/bikash30851/assignment2-Adhikari/blob/main/AboutMe.md)
+
+***
+
+### Food and Drinks Recommendation
+In the table below, I have included 4 foods and drinks that I would like to recommend. I have inclued a few foods and drinks from my tradition and some from foreign cultures that I have eaten in the past. 
+
+| Food/drink | Location | Cost |
+| --- | --- | ---: |
+| Momo | Kathmandu | 60 Cents |
+| Chat | Delhi | 40 Cents |
+| Pizza | Italy | 30 Dollars |
+| Ichiraku | Tokyo | 40 Dollars |
+
