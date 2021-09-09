@@ -43,8 +43,8 @@ In the table below, I have included 4 foods and drinks that I would like to reco
 ***
 
 ### Favorite Quotes
->*Andy Dufresne* Hope is a good thing, maybe the best of things, and no good thing ever dies.
+>Hope is a good thing, maybe the best of things, and no good thing ever dies. *-Andy Dufresne* 
 >
->*Ralph Waldo Emerson* The first wealth is health.
+>The first wealth is health. *-Ralph Waldo Emerson*
 
 
