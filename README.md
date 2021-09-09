@@ -47,4 +47,42 @@ In the table below, I have included 4 foods and drinks that I would like to reco
 >
 >The first wealth is health. *-Ralph Waldo Emerson*
 
+***
+
+### Algorithm
+
+>In mathematics, Gaussian elimination, also known as row reduction, is an algorithm for solving systems of linear equations. It consists of a sequence of operations performed on the corresponding matrix of coefficients. This method can also be used to compute the rank of a matrix, the determinant of a square matrix, and the inverse of an invertible matrix. 
+Source: <https://en.wikipedia.org/wiki/Gaussian_elimination>
+
+```
+const double EPS = 1E-9;
+int n;
+vector < vector<double> > a (n, vector<double> (n));
+
+double det = 1;
+for (int i=0; i<n; ++i) {
+    int k = i;
+    for (int j=i+1; j<n; ++j)
+        if (abs (a[j][i]) > abs (a[k][i]))
+            k = j;
+    if (abs (a[k][i]) < EPS) {
+        det = 0;
+        break;
+    }
+    swap (a[i], a[k]);
+    if (i != k)
+        det = -det;
+    det *= a[i][i];
+    for (int j=i+1; j<n; ++j)
+        a[i][j] /= a[i][i];
+    for (int j=0; j<n; ++j)
+        if (j != i && abs (a[j][i]) > EPS)
+            for (int k=i+1; k<n; ++k)
+                a[j][k] -= a[i][k] * a[j][i];
+}
+
+cout << det;
+```
+Code Source: <https://cp-algorithms.com/linear_algebra/determinant-gauss.html>
+
 
