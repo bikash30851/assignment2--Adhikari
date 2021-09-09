@@ -40,3 +40,11 @@ In the table below, I have included 4 foods and drinks that I would like to reco
 | Ichiraku | Tokyo | 40 Dollars |
 | Hamburger | USA | 5 Dollars |
 
+***
+
+### Favorite Quotes
+>*Andy Dufresne* Hope is a good thing, maybe the best of things, and no good thing ever dies.
+>
+>*Ralph Waldo Emerson* The first wealth is health.
+
+
